@@ -1,8 +1,8 @@
 - 👋 Hey, I’m @Mr-Starkk
-- 👀 I’m interested in learning... 	Algorithms
-                                    Databases
+- 👀 I’m interested in learning... 	Algorithms, 
+                                    Databases, 
                                     How Servers Work
-                                    Implementing AI & ML
+                                    & Implementing AI & ML
                             
 - 🌱 I’m currently learning ... HTML, CSS and JAVASCRIPT.
 - 💞️ I’m looking to collaborate on ... WEB DEVELOPMENT AND DESIGN
