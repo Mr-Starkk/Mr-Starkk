@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @Mr-Starkk
+- 👋 Hey, I’m Yash Sharma (@Mr-Starkk)
 - 👀 I’m interested in learning... 	Algorithms, 
                                     Databases, 
                                     How Servers Work
